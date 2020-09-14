@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
+import 'antd/dist/antd.css';
 
 import { Chatbot } from 'react-chatbot-kit';
 import config from './Chatbot/config';
